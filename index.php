@@ -50,7 +50,7 @@
         </nav>
 
         <div id="div_reseaux_sociaux">
-          <a target="_blank" href="https://github.com/Senwoo"><img src="logos/github.png" alt="logo github"></a>
+          <a target="_blank" href="https://github.com/Laurent70300"><img src="logos/github.png" alt="logo github"></a>
           <a target="_blank" href="https://www.linkedin.com/in/lebarbier-laurent"><img src="logos/linkedin.png" alt="logo linkedin"></a>
         </div>
       </div>
