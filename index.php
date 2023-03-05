@@ -83,7 +83,7 @@
           <p id="text_hover2" class="text-js">je suis Laurent,</p>
         </div>
         <div class="type-js3 headline">
-          <p id="text_hover3" class="text-js">Développeur web full stack</p>
+          <p id="text_hover3" class="text-js">Développeur web front end</p>
         </div>
 
 
